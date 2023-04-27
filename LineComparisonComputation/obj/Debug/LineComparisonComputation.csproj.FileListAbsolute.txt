@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Day3-asn2\LineComparisonComputation\LineComparisonComputation\bin\Debug\LineComparisonComputation.exe.config
+C:\Users\Admin\Documents\Day3-asn2\LineComparisonComputation\LineComparisonComputation\bin\Debug\LineComparisonComputation.exe
+C:\Users\Admin\Documents\Day3-asn2\LineComparisonComputation\LineComparisonComputation\bin\Debug\LineComparisonComputation.pdb
+C:\Users\Admin\Documents\Day3-asn2\LineComparisonComputation\LineComparisonComputation\obj\Debug\LineComparisonComputation.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day3-asn2\LineComparisonComputation\LineComparisonComputation\obj\Debug\LineComparisonComputation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Day3-asn2\LineComparisonComputation\LineComparisonComputation\obj\Debug\LineComparisonComputation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day3-asn2\LineComparisonComputation\LineComparisonComputation\obj\Debug\LineComparisonComputation.exe
+C:\Users\Admin\Documents\Day3-asn2\LineComparisonComputation\LineComparisonComputation\obj\Debug\LineComparisonComputation.pdb
